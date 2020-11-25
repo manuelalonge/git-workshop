@@ -1,1 +1,1 @@
-# git-workshop
+Workshop to improve git skills
